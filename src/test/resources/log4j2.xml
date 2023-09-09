@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN" strict="true">
+	<Properties>
+		<Property name="filename">C:\Users\Sruja\git\LMS_Hackathon_Consolidated\src\test\resources\Logs\logs.log
+</Property>
+	</Properties>
+	<Appenders>
+		<Appender type="Console" name="STDOUT">
+			<Layout type="PatternLayout" pattern="%d{yyyy-MMM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+		</Appender>
+		<Appender type="File" name="File" filename="${filename}">
+			<Layout type="PatternLayout" pattern="%d{yyyy-MMM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+		</Appender>
+	</Appenders>
+	<Loggers>
+
+		<Root level="info">
+			<AppenderRef ref="File" />
+		</Root>
+	</Loggers>
+</Configuration>

@@ -1,0 +1,1 @@
+{"uuid":"29738f1a-9934-4946-ae35-4840f490d54f","name":"Scenario: Open LMS website","children":["ec9ff951-608f-4f90-ae95-c2997832f6d7"],"befores":[{"name":"Hooks.LMS_Hooks.browserSetUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1664230644435,"stop":1664230647380}],"afters":[],"links":[],"start":1664230644300,"stop":1664230647429}

@@ -1,0 +1,389 @@
+2022-Sep-26 18:17:24.861 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+2022-Sep-26 18:17:24.863 [main] INFO  BaseClass.java - Browser Type is: Chrome
+2022-Sep-26 18:17:24.863 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+2022-Sep-26 18:17:27.377 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+2022-Sep-26 18:17:27.417 [main] INFO  SD_Login.java - The Login Page tittle is :LMS
+2022-Sep-26 18:17:27.899 [main] INFO  SD_Login.java - The Login page tittle is :LMS
+2022-Sep-26 18:17:27.961 [main] INFO  SD_Batch1.java - The Tittle of Manage Progrm page is :LMS
+2022-Sep-26 18:17:28.027 [main] INFO  SD_Batch1.java - The Tittle of Manage Batch page is :LMS
+2022-Sep-26 18:17:28.070 [main] INFO  SD_Batch1.java - The URL of Manage Progrm page is :http://lms-frontend-phase2.herokuapp.com/batch
+2022-Sep-26 18:17:28.188 [main] INFO  SD_Batch1.java - The Tittle of Manage Batch page is :http://lms-frontend-phase2.herokuapp.com/batch
+2022-Sep-26 18:17:28.548 [main] INFO  SD_Batch1.java - The edit window label is :Batch Details
+2022-Sep-26 18:38:02.860 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+2022-Sep-26 18:38:02.863 [main] INFO  BaseClass.java - Browser Type is: Chrome
+2022-Sep-26 18:38:02.863 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+2022-Sep-26 18:38:05.613 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+2022-Sep-26 18:39:46.575 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+2022-Sep-26 18:39:46.576 [main] INFO  BaseClass.java - Browser Type is: Chrome
+2022-Sep-26 18:39:46.576 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+2022-Sep-26 18:39:48.125 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+2022-Sep-26 19:34:35.837 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+2022-Sep-26 19:34:35.837 [main] INFO  BaseClass.java - Browser Type is: Chrome
+2022-Sep-26 19:34:35.837 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+2022-Sep-26 19:34:38.037 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+2022-Sep-26 19:35:39.142 [main] INFO  SD_Batch1.java - The Tittle of Manage Progrm page is :LMS
+2022-Sep-26 19:35:39.224 [main] INFO  SD_Batch1.java - The Tittle of Manage Batch page is :LMS
+2022-Sep-26 19:35:39.242 [main] INFO  SD_Batch1.java - The URL of Manage Progrm page is :http://lms-frontend-phase2.herokuapp.com/batch
+2022-Sep-26 19:35:39.311 [main] INFO  SD_Batch1.java - The Tittle of Manage Batch page is :http://lms-frontend-phase2.herokuapp.com/batch
+2022-Sep-26 19:35:39.679 [main] INFO  SD_Batch1.java - The edit window label is :Batch Details
+2022-Sep-26 20:10:01.364 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+2022-Sep-26 20:10:01.366 [main] INFO  BaseClass.java - Browser Type is: Chrome
+2022-Sep-26 20:10:01.366 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+2022-Sep-26 20:10:04.337 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+2022-Sep-26 20:12:24.401 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+2022-Sep-26 20:12:24.404 [main] INFO  BaseClass.java - Browser Type is: Chrome
+2022-Sep-26 20:12:24.404 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+2022-Sep-26 20:12:27.054 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+2022-Sep-26 20:13:28.509 [main] INFO  SD_Batch1.java - The Tittle of Manage Progrm page is :LMS
+2022-Sep-26 20:13:28.638 [main] INFO  SD_Batch1.java - The Tittle of Manage Batch page is :LMS
+2022-Sep-26 20:13:28.670 [main] INFO  SD_Batch1.java - The URL of Manage Progrm page is :http://lms-frontend-phase2.herokuapp.com/batch
+2022-Sep-26 20:13:28.797 [main] INFO  SD_Batch1.java - The Tittle of Manage Batch page is :http://lms-frontend-phase2.herokuapp.com/batch
+2022-Sep-26 20:13:29.132 [main] INFO  SD_Batch1.java - The edit window label is :Batch Details
+2022-Sep-26 20:13:39.057 [main] INFO  SD_User1.java - The Tittle of Manage batch page is :LMS
+2022-Sep-26 20:13:39.134 [main] INFO  SD_User1.java - The Tittle of Manage batch page is :LMS
+2022-Sep-26 20:13:39.159 [main] INFO  SD_User1.java - The URL of Manage User page is :http://lms-frontend-phase2.herokuapp.com/user
+2022-Sep-26 20:13:39.230 [main] INFO  SD_User1.java - The user is in Manage user page :http://lms-frontend-phase2.herokuapp.com/user
+2022-Sep-26 20:13:39.425 [main] INFO  SD_User1.java - The Tittle of Manage batch page is :LMS
+2022-Sep-26 20:13:59.643 [main] INFO  SD_User1.java - The Tittle of Manage batch page is :LMS
+2022-Sep-26 20:31:25.178 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+2022-Sep-26 20:31:25.182 [main] INFO  BaseClass.java - Browser Type is: Chrome
+2022-Sep-26 20:31:25.182 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+2022-Sep-26 20:31:27.972 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+2022-Sep-26 20:32:29.432 [main] INFO  SD_Batch1.java - The Tittle of Manage Progrm page is :LMS
+2022-Sep-26 20:32:29.540 [main] INFO  SD_Batch1.java - The Tittle of Manage Batch page is :LMS
+2022-Sep-26 20:32:29.562 [main] INFO  SD_Batch1.java - The URL of Manage Progrm page is :http://lms-frontend-phase2.herokuapp.com/batch
+2022-Sep-26 20:32:29.646 [main] INFO  SD_Batch1.java - The Tittle of Manage Batch page is :http://lms-frontend-phase2.herokuapp.com/batch
+2022-Sep-26 20:32:29.735 [main] INFO  SD_Batch1.java - Result String is: sdet new batch1
+2022-Sep-26 20:32:29.735 [main] INFO  SD_Batch1.java - String Exists
+2022-Sep-26 20:32:29.773 [main] INFO  SD_Batch1.java - Entries Text is :Showing 1 to 5 of 29 entries
+2022-Sep-26 20:32:29.934 [main] INFO  SD_Batch1.java - Main window handle is CDwindow-71799211E90C655E2C2CF0CCCD8C4B07
+2022-Sep-26 20:32:29.942 [main] INFO  SD_Batch1.java - Child window handle is[CDwindow-71799211E90C655E2C2CF0CCCD8C4B07]
+2022-Sep-26 20:32:29.970 [main] INFO  SD_Batch1.java - The Edit Window label is Batch Details
+2022-Sep-26 20:32:29.971 [main] INFO  SD_Batch1.java - The edit window label is :Batch Details
+2022-Sep-26 20:32:30.008 [main] INFO  SD_Batch1.java - User is on Batch Details Edit Page 1
+2022-Sep-26 20:32:30.069 [main] INFO  SD_Batch1.java - Validating user is at LMS page:LMS
+2022-Sep-26 20:32:30.099 [main] INFO  SD_Batch1.java - User is on Batch Details Edit Page 1
+2022-Sep-26 20:32:30.353 [main] INFO  SD_Batch1.java - Current Batch Details Name: SDET NEW BATCH1
+2022-Sep-26 20:32:30.400 [main] INFO  SD_Batch1.java - Current Batch Description: BatchDesc1
+2022-Sep-26 20:32:30.425 [main] INFO  SD_Batch1.java - Current Batch No Of Classes: 60
+2022-Sep-26 20:32:31.883 [main] INFO  SD_BatchNewAdd.java - validating Add Batch PAge:
+2022-Sep-26 20:32:33.131 [main] INFO  SD_BatchNewAdd.java - Batch Name:Test5
+2022-Sep-26 20:32:33.132 [main] INFO  SD_BatchNewAdd.java - Batch Desc:Testing 
+2022-Sep-26 20:32:33.132 [main] INFO  SD_BatchNewAdd.java - Batch Classes:23
+2022-Sep-26 20:32:33.309 [main] INFO  SD_BatchNewAdd.java - Page tittle after cancel button:LMS
+2022-Sep-26 20:32:40.000 [main] INFO  SD_BatchOrder.java - User is on Page number:2
+2022-Sep-26 20:32:40.031 [main] INFO  SD_BatchOrder.java - Validate Second Page Entries:Showing 6 to 10 of 20 entries
+2022-Sep-26 20:32:40.104 [main] INFO  SD_BatchOrder.java - User is on Page number:1
+2022-Sep-26 20:32:40.127 [main] INFO  SD_BatchOrder.java - Validate Previous Page Entries:Showing 1 to 5 of 20 entries
+2022-Sep-26 20:32:40.205 [main] INFO  SD_BatchOrder.java - User is on Page number:4
+2022-Sep-26 20:32:40.230 [main] INFO  SD_BatchOrder.java - Validate Last Page Entries:Showing 16 to 20 of 20 entries
+2022-Sep-26 20:32:40.299 [main] INFO  SD_BatchOrder.java - Validate First Page Entries:Showing 1 to 5 of 20 entries
+2022-Sep-26 20:32:40.466 [main] INFO  SD_BatchOrder.java - Batch Names are sorted in Ascending Order
+2022-Sep-26 20:32:40.629 [main] INFO  SD_BatchOrder.java - Status Ascending order ACTIVE
+2022-Sep-26 20:32:40.629 [main] INFO  SD_BatchOrder.java - Ascending Order is Correct
+2022-Sep-26 20:32:40.723 [main] INFO  SD_BatchOrder.java - No Of Classes is in Ascending order
+2022-Sep-26 20:32:40.927 [main] INFO  SD_BatchOrder.java - Status Ascending order ACTIVE
+2022-Sep-26 20:32:40.927 [main] INFO  SD_BatchOrder.java - Ascending Order is Correct
+2022-Sep-26 20:32:41.044 [main] INFO  SD_BatchOrder.java - No Of Classes is in Descending  order
+2022-Sep-26 20:32:41.065 [main] INFO  SD_User1.java - The Tittle of Manage batch page is :LMS
+2022-Sep-26 20:32:41.136 [main] INFO  SD_User1.java - The Tittle of Manage batch page is :LMS
+2022-Sep-26 20:32:41.165 [main] INFO  SD_User1.java - The URL of Manage User page is :http://lms-frontend-phase2.herokuapp.com/user
+2022-Sep-26 20:32:41.254 [main] INFO  SD_User1.java - The user is in Manage user page :http://lms-frontend-phase2.herokuapp.com/user
+2022-Sep-26 20:32:41.454 [main] INFO  SD_User1.java - The Tittle of Manage batch page is :LMS
+2022-Sep-26 20:32:41.506 [main] INFO  SD_User1.java - Matching users are displayed
+2022-Sep-26 20:32:41.575 [main] INFO  SD_User1.java - Total number of users :Showing 1 to 4 of 4 entries
+1
+2022-Sep-26 20:32:41.586 [main] INFO  SD_User1.java - Userdetails window is opened
+2022-Sep-26 20:33:01.646 [main] INFO  SD_User1.java - The Tittle of Manage batch page is :LMS
+2022-Sep-26 20:33:01.792 [main] INFO  SD_User1.java -  User details window is displayed to add the details
+2022-Sep-26 20:33:01.925 [main] INFO  Add new user window is closed - fail
+2022-Sep-26 20:36:32.652 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+2022-Sep-26 20:36:32.655 [main] INFO  BaseClass.java - Browser Type is: Chrome
+2022-Sep-26 20:36:32.655 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+2022-Sep-26 20:36:35.825 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+2022-Sep-26 20:37:37.411 [main] INFO  SD_Batch1.java - The Tittle of Manage Progrm page is :LMS
+2022-Sep-26 20:37:37.630 [main] INFO  SD_Batch1.java - The Tittle of Manage Batch page is :LMS
+2022-Sep-26 20:37:37.674 [main] INFO  SD_Batch1.java - The URL of Manage Progrm page is :http://lms-frontend-phase2.herokuapp.com/batch
+2022-Sep-26 20:37:37.853 [main] INFO  SD_Batch1.java - The Tittle of Manage Batch page is :http://lms-frontend-phase2.herokuapp.com/batch
+2022-Sep-26 20:37:38.020 [main] INFO  SD_Batch1.java - Result String is: sdet new batch1
+2022-Sep-26 20:37:38.021 [main] INFO  SD_Batch1.java - String Exists
+2022-Sep-26 20:37:38.098 [main] INFO  SD_Batch1.java - Entries Text is :Showing 1 to 5 of 29 entries
+2022-Sep-26 20:37:38.441 [main] INFO  SD_Batch1.java - Main window handle is CDwindow-BE3F70901D4947D81C1005DFC61CABF9
+2022-Sep-26 20:37:38.459 [main] INFO  SD_Batch1.java - Child window handle is[CDwindow-BE3F70901D4947D81C1005DFC61CABF9]
+2022-Sep-26 20:37:38.490 [main] INFO  SD_Batch1.java - The Edit Window label is Batch Details
+2022-Sep-26 20:37:38.490 [main] INFO  SD_Batch1.java - The edit window label is :Batch Details
+2022-Sep-26 20:37:38.522 [main] INFO  SD_Batch1.java - User is on Batch Details Edit Page 1
+2022-Sep-26 20:37:38.711 [main] INFO  SD_Batch1.java - Validating user is at LMS page:LMS
+2022-Sep-26 20:37:38.804 [main] INFO  SD_Batch1.java - User is on Batch Details Edit Page 1
+2022-Sep-26 20:37:39.354 [main] INFO  SD_Batch1.java - Current Batch Details Name: SDET NEW BATCH1
+2022-Sep-26 20:37:39.449 [main] INFO  SD_Batch1.java - Current Batch Description: BatchDesc1
+2022-Sep-26 20:37:39.474 [main] INFO  SD_Batch1.java - Current Batch No Of Classes: 60
+2022-Sep-26 20:37:40.852 [main] INFO  SD_BatchNewAdd.java - validating Add Batch PAge:Batch Details
+2022-Sep-26 20:37:41.600 [main] INFO  SD_BatchNewAdd.java - Batch Name:Test5
+2022-Sep-26 20:37:41.600 [main] INFO  SD_BatchNewAdd.java - Batch Desc:Testing 
+2022-Sep-26 20:37:41.600 [main] INFO  SD_BatchNewAdd.java - Batch Classes:23
+2022-Sep-26 20:37:41.772 [main] INFO  SD_BatchNewAdd.java - Page tittle after cancel button:LMS
+2022-Sep-26 20:37:42.694 [main] INFO  SD_BatchOrder.java - User is on Page number:2
+2022-Sep-26 20:37:42.725 [main] INFO  SD_BatchOrder.java - Validate Second Page Entries:Showing 6 to 10 of 28 entries
+2022-Sep-26 20:37:42.803 [main] INFO  SD_BatchOrder.java - User is on Page number:1
+2022-Sep-26 20:37:42.834 [main] INFO  SD_BatchOrder.java - Validate Previous Page Entries:Showing 1 to 5 of 20 entries
+2022-Sep-26 20:37:42.897 [main] INFO  SD_BatchOrder.java - User is on Page number:4
+2022-Sep-26 20:37:42.928 [main] INFO  SD_BatchOrder.java - Validate Last Page Entries:Showing 16 to 20 of 20 entries
+2022-Sep-26 20:37:43.006 [main] INFO  SD_BatchOrder.java - Validate First Page Entries:Showing 1 to 5 of 20 entries
+2022-Sep-26 20:37:43.193 [main] INFO  SD_BatchOrder.java - Batch Names are sorted in Ascending Order
+2022-Sep-26 20:37:43.334 [main] INFO  SD_BatchOrder.java - Status Ascending order ACTIVE
+2022-Sep-26 20:37:43.334 [main] INFO  SD_BatchOrder.java - Ascending Order is Correct
+2022-Sep-26 20:37:43.412 [main] INFO  SD_BatchOrder.java - No Of Classes is in Ascending order
+2022-Sep-26 20:37:43.584 [main] INFO  SD_BatchOrder.java - Status Ascending order ACTIVE
+2022-Sep-26 20:37:43.584 [main] INFO  SD_BatchOrder.java - Ascending Order is Correct
+2022-Sep-26 20:37:43.693 [main] INFO  SD_BatchOrder.java - No Of Classes is in Descending  order
+2022-Sep-26 20:37:43.709 [main] INFO  SD_User1.java - The Tittle of Manage batch page is :LMS
+2022-Sep-26 20:37:43.803 [main] INFO  SD_User1.java - The Tittle of Manage batch page is :LMS
+2022-Sep-26 20:37:43.834 [main] INFO  SD_User1.java - The URL of Manage User page is :http://lms-frontend-phase2.herokuapp.com/user
+2022-Sep-26 20:37:43.896 [main] INFO  SD_User1.java - The user is in Manage user page :http://lms-frontend-phase2.herokuapp.com/user
+2022-Sep-26 20:37:44.099 [main] INFO  SD_User1.java - The Tittle of Manage batch page is :LMS
+2022-Sep-26 20:37:44.146 [main] INFO  SD_User1.java - Matching users are displayed
+2022-Sep-26 20:37:44.178 [main] INFO  SD_User1.java - Total number of users :Showing 1 to 4 of 4 entries
+1
+2022-Sep-26 20:37:44.334 [main] INFO  SD_User1.java - User details window pops up
+2022-Sep-26 20:37:44.349 [main] INFO  SD_User1.java - Userdetails window is opened
+2022-Sep-26 20:37:44.412 [main] INFO  SD_User1.java - The Tittle of Manage batch page is :LMS
+2022-Sep-26 20:37:44.746 [main] INFO  SD_User1.java -  User details window is displayed to add the details
+2022-Sep-26 20:37:45.078 [main] INFO  Add new user window is closed - fail
+2022-Sep-26 20:38:25.046 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+2022-Sep-26 20:38:25.049 [main] INFO  BaseClass.java - Browser Type is: Chrome
+2022-Sep-26 20:38:25.049 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+2022-Sep-26 20:38:27.996 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+2022-Sep-26 20:39:29.483 [main] INFO  SD_Batch1.java - The Tittle of Manage Progrm page is :LMS
+2022-Sep-26 20:39:29.584 [main] INFO  SD_Batch1.java - The Tittle of Manage Batch page is :LMS
+2022-Sep-26 20:39:29.625 [main] INFO  SD_Batch1.java - The URL of Manage Progrm page is :http://lms-frontend-phase2.herokuapp.com/batch
+2022-Sep-26 20:39:29.731 [main] INFO  SD_Batch1.java - The Tittle of Manage Batch page is :http://lms-frontend-phase2.herokuapp.com/batch
+2022-Sep-26 20:39:29.816 [main] INFO  SD_Batch1.java - Result String is: sdet new batch1
+2022-Sep-26 20:39:29.816 [main] INFO  SD_Batch1.java - String Exists
+2022-Sep-26 20:39:29.849 [main] INFO  SD_Batch1.java - Entries Text is :Showing 1 to 5 of 29 entries
+2022-Sep-26 20:39:30.009 [main] INFO  SD_Batch1.java - Main window handle is CDwindow-6CA5E2F5E79E84C01026BA0AB1D6C070
+2022-Sep-26 20:39:30.020 [main] INFO  SD_Batch1.java - Child window handle is[CDwindow-6CA5E2F5E79E84C01026BA0AB1D6C070]
+2022-Sep-26 20:39:30.043 [main] INFO  SD_Batch1.java - The Edit Window label is Batch Details
+2022-Sep-26 20:39:30.043 [main] INFO  SD_Batch1.java - The edit window label is :Batch Details
+2022-Sep-26 20:39:30.090 [main] INFO  SD_Batch1.java - User is on Batch Details Edit Page 1
+2022-Sep-26 20:39:30.171 [main] INFO  SD_Batch1.java - Validating user is at LMS page:LMS
+2022-Sep-26 20:39:30.207 [main] INFO  SD_Batch1.java - User is on Batch Details Edit Page 1
+2022-Sep-26 20:39:30.512 [main] INFO  SD_Batch1.java - Current Batch Details Name: SDET NEW BATCH1
+2022-Sep-26 20:39:30.573 [main] INFO  SD_Batch1.java - Current Batch Description: BatchDesc1
+2022-Sep-26 20:39:30.604 [main] INFO  SD_Batch1.java - Current Batch No Of Classes: 60
+2022-Sep-26 20:39:31.932 [main] INFO  SD_BatchNewAdd.java - validating Add Batch PAge:Batch Details
+2022-Sep-26 20:39:32.609 [main] INFO  SD_BatchNewAdd.java - Batch Name:Test5
+2022-Sep-26 20:39:32.609 [main] INFO  SD_BatchNewAdd.java - Batch Desc:Testing 
+2022-Sep-26 20:39:32.610 [main] INFO  SD_BatchNewAdd.java - Batch Classes:23
+2022-Sep-26 20:39:32.796 [main] INFO  SD_BatchNewAdd.java - Page tittle after cancel button:LMS
+2022-Sep-26 20:39:33.686 [main] INFO  SD_BatchOrder.java - User is on Page number:2
+2022-Sep-26 20:39:33.716 [main] INFO  SD_BatchOrder.java - Validate Second Page Entries:Showing 6 to 10 of 28 entries
+2022-Sep-26 20:39:33.796 [main] INFO  SD_BatchOrder.java - User is on Page number:1
+2022-Sep-26 20:39:33.829 [main] INFO  SD_BatchOrder.java - Validate Previous Page Entries:Showing 1 to 5 of 20 entries
+2022-Sep-26 20:39:33.912 [main] INFO  SD_BatchOrder.java - User is on Page number:4
+2022-Sep-26 20:39:33.940 [main] INFO  SD_BatchOrder.java - Validate Last Page Entries:Showing 16 to 20 of 20 entries
+2022-Sep-26 20:39:34.005 [main] INFO  SD_BatchOrder.java - Validate First Page Entries:Showing 1 to 5 of 20 entries
+2022-Sep-26 20:39:34.157 [main] INFO  SD_BatchOrder.java - Batch Names are sorted in Ascending Order
+2022-Sep-26 20:39:34.301 [main] INFO  SD_BatchOrder.java - Status Ascending order ACTIVE
+2022-Sep-26 20:39:34.301 [main] INFO  SD_BatchOrder.java - Ascending Order is Correct
+2022-Sep-26 20:39:34.384 [main] INFO  SD_BatchOrder.java - No Of Classes is in Ascending order
+2022-Sep-26 20:39:34.580 [main] INFO  SD_BatchOrder.java - Status Ascending order ACTIVE
+2022-Sep-26 20:39:34.581 [main] INFO  SD_BatchOrder.java - Ascending Order is Correct
+2022-Sep-26 20:39:34.683 [main] INFO  SD_BatchOrder.java - No Of Classes is in Descending  order
+2022-Sep-26 20:39:34.711 [main] INFO  SD_User1.java - The Tittle of Manage batch page is :LMS
+2022-Sep-26 20:39:34.801 [main] INFO  SD_User1.java - The Tittle of Manage batch page is :LMS
+2022-Sep-26 20:39:34.829 [main] INFO  SD_User1.java - The URL of Manage User page is :http://lms-frontend-phase2.herokuapp.com/user
+2022-Sep-26 20:39:34.919 [main] INFO  SD_User1.java - The user is in Manage user page :http://lms-frontend-phase2.herokuapp.com/user
+2022-Sep-26 20:39:35.128 [main] INFO  SD_User1.java - The Tittle of Manage batch page is :LMS
+2022-Sep-26 20:39:35.193 [main] INFO  SD_User1.java - Matching users are displayed
+2022-Sep-26 20:39:35.233 [main] INFO  SD_User1.java - Total number of users :Showing 1 to 4 of 4 entries
+1
+2022-Sep-26 20:39:35.384 [main] INFO  SD_User1.java - User details window pops up
+2022-Sep-26 20:39:35.397 [main] INFO  SD_User1.java - Userdetails window is opened
+2022-Sep-26 20:39:35.477 [main] INFO  SD_User1.java - The Tittle of Manage batch page is :LMS
+2022-Sep-26 20:39:35.807 [main] INFO  SD_User1.java -  User details window is displayed to add the details
+2022-Sep-26 20:39:35.940 [main] INFO  Add new user window is closed - fail
+2022-Sep-26 20:49:54.053 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+2022-Sep-26 20:49:54.055 [main] INFO  BaseClass.java - Browser Type is: Chrome
+2022-Sep-26 20:49:54.055 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+2022-Sep-26 20:49:57.530 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+2022-Sep-26 20:50:18.874 [main] INFO  SD_Batch1.java - The Tittle of Manage Progrm page is :LMS
+2022-Sep-26 20:50:18.991 [main] INFO  SD_Batch1.java - The Tittle of Manage Batch page is :LMS
+2022-Sep-26 20:50:19.011 [main] INFO  SD_Batch1.java - The URL of Manage Progrm page is :http://lms-frontend-phase2.herokuapp.com/batch
+2022-Sep-26 20:50:19.109 [main] INFO  SD_Batch1.java - The Tittle of Manage Batch page is :http://lms-frontend-phase2.herokuapp.com/batch
+2022-Sep-26 20:50:19.186 [main] INFO  SD_Batch1.java - Result String is: sdet new batch1
+2022-Sep-26 20:50:19.186 [main] INFO  SD_Batch1.java - String Exists
+2022-Sep-26 20:50:19.238 [main] INFO  SD_Batch1.java - Entries Text is :Showing 1 to 5 of 30 entries
+2022-Sep-26 20:50:19.386 [main] INFO  SD_Batch1.java - Main window handle is CDwindow-3F440D55CBCB5BDDE3FA12AB78CB9179
+2022-Sep-26 20:50:19.391 [main] INFO  SD_Batch1.java - Child window handle is[CDwindow-3F440D55CBCB5BDDE3FA12AB78CB9179]
+2022-Sep-26 20:50:19.424 [main] INFO  SD_Batch1.java - The Edit Window label is Batch Details
+2022-Sep-26 20:50:19.424 [main] INFO  SD_Batch1.java - The edit window label is :Batch Details
+2022-Sep-26 20:50:19.453 [main] INFO  SD_Batch1.java - User is on Batch Details Edit Page 1
+2022-Sep-26 20:50:19.522 [main] INFO  SD_Batch1.java - Validating user is at LMS page:LMS
+2022-Sep-26 20:50:19.552 [main] INFO  SD_Batch1.java - User is on Batch Details Edit Page 1
+2022-Sep-26 20:50:19.854 [main] INFO  SD_Batch1.java - Current Batch Details Name: SDET NEW BATCH1
+2022-Sep-26 20:50:19.899 [main] INFO  SD_Batch1.java - Current Batch Description: BatchDesc1
+2022-Sep-26 20:50:19.925 [main] INFO  SD_Batch1.java - Current Batch No Of Classes: 60
+2022-Sep-26 20:50:21.139 [main] INFO  SD_BatchNewAdd.java - validating Add Batch PAge:Batch Details
+2022-Sep-26 20:50:21.826 [main] INFO  SD_BatchNewAdd.java - Batch Name:Test5
+2022-Sep-26 20:50:21.826 [main] INFO  SD_BatchNewAdd.java - Batch Desc:Testing 
+2022-Sep-26 20:50:21.826 [main] INFO  SD_BatchNewAdd.java - Batch Classes:23
+2022-Sep-26 20:50:21.992 [main] INFO  SD_BatchNewAdd.java - Page tittle after cancel button:LMS
+2022-Sep-26 20:50:22.863 [main] INFO  SD_BatchOrder.java - User is on Page number:2
+2022-Sep-26 20:50:22.897 [main] INFO  SD_BatchOrder.java - Validate Second Page Entries:Showing 6 to 10 of 29 entries
+2022-Sep-26 20:50:22.965 [main] INFO  SD_BatchOrder.java - User is on Page number:1
+2022-Sep-26 20:50:22.994 [main] INFO  SD_BatchOrder.java - Validate Previous Page Entries:Showing 1 to 5 of 21 entries
+2022-Sep-26 20:50:23.062 [main] INFO  SD_BatchOrder.java - User is on Page number:5
+2022-Sep-26 20:50:23.085 [main] INFO  SD_BatchOrder.java - Validate Last Page Entries:Showing 21 to 21 of 21 entries
+2022-Sep-26 20:50:23.146 [main] INFO  SD_BatchOrder.java - Validate First Page Entries:Showing 1 to 5 of 21 entries
+2022-Sep-26 20:50:23.317 [main] INFO  SD_BatchOrder.java - Batch Names are sorted in Ascending Order
+2022-Sep-26 20:50:23.444 [main] INFO  SD_BatchOrder.java - Status Ascending order ACTIVE
+2022-Sep-26 20:50:23.444 [main] INFO  SD_BatchOrder.java - Ascending Order is Correct
+2022-Sep-26 20:50:23.531 [main] INFO  SD_BatchOrder.java - No Of Classes is in Ascending order
+2022-Sep-26 20:50:23.705 [main] INFO  SD_BatchOrder.java - Status Ascending order ACTIVE
+2022-Sep-26 20:50:23.706 [main] INFO  SD_BatchOrder.java - Ascending Order is Correct
+2022-Sep-26 20:50:23.814 [main] INFO  SD_BatchOrder.java - No Of Classes is in Descending  order
+2022-Sep-26 20:50:23.832 [main] INFO  SD_User1.java - The Tittle of Manage batch page is :LMS
+2022-Sep-26 20:50:24.976 [main] INFO  SD_User1.java - The URL of Manage User page is :http://lms-frontend-phase2.herokuapp.com/batch
+2022-Sep-26 20:50:25.977 [main] INFO  SD_User1.java - The user is in Manage user page :http://lms-frontend-phase2.herokuapp.com/user
+2022-Sep-26 20:50:26.180 [main] INFO  SD_User1.java - The Tittle of Manage batch page is :LMS
+2022-Sep-26 20:50:26.230 [main] INFO  SD_User1.java - Matching users are displayed
+2022-Sep-26 20:50:26.264 [main] INFO  SD_User1.java - Total number of users :Showing 1 to 4 of 4 entries
+1
+2022-Sep-26 20:50:26.408 [main] INFO  SD_User1.java - User details window pops up
+2022-Sep-26 20:50:26.421 [main] INFO  SD_User1.java - Userdetails window is opened
+2022-Sep-26 20:50:26.485 [main] INFO  SD_User1.java - The Tittle of Manage batch page is :LMS
+2022-Sep-26 20:50:26.888 [main] INFO  SD_User1.java -  User details window is displayed to add the details
+2022-Sep-26 20:50:27.026 [main] INFO  Add new user window is closed - fail
+2022-Sep-26 20:51:45.105 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+2022-Sep-26 20:51:45.108 [main] INFO  BaseClass.java - Browser Type is: Chrome
+2022-Sep-26 20:51:45.109 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+2022-Sep-26 20:51:47.873 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+2022-Sep-26 20:52:49.231 [main] INFO  SD_Batch1.java - The Tittle of Manage Progrm page is :LMS
+2022-Sep-26 20:52:49.337 [main] INFO  SD_Batch1.java - The Tittle of Manage Batch page is :LMS
+2022-Sep-26 20:52:49.382 [main] INFO  SD_Batch1.java - The URL of Manage Progrm page is :http://lms-frontend-phase2.herokuapp.com/batch
+2022-Sep-26 20:52:49.481 [main] INFO  SD_Batch1.java - The Tittle of Manage Batch page is :http://lms-frontend-phase2.herokuapp.com/batch
+2022-Sep-26 20:52:49.575 [main] INFO  SD_Batch1.java - Result String is: sdet new batch1
+2022-Sep-26 20:52:49.575 [main] INFO  SD_Batch1.java - String Exists
+2022-Sep-26 20:52:49.614 [main] INFO  SD_Batch1.java - Entries Text is :Showing 1 to 5 of 30 entries
+2022-Sep-26 20:52:49.775 [main] INFO  SD_Batch1.java - Main window handle is CDwindow-A6FF9EA7EFC18D23C7CD6DE1FCA0A8A6
+2022-Sep-26 20:52:49.782 [main] INFO  SD_Batch1.java - Child window handle is[CDwindow-A6FF9EA7EFC18D23C7CD6DE1FCA0A8A6]
+2022-Sep-26 20:52:49.817 [main] INFO  SD_Batch1.java - The Edit Window label is Batch Details
+2022-Sep-26 20:52:49.817 [main] INFO  SD_Batch1.java - The edit window label is :Batch Details
+2022-Sep-26 20:52:49.850 [main] INFO  SD_Batch1.java - User is on Batch Details Edit Page 1
+2022-Sep-26 20:52:49.928 [main] INFO  SD_Batch1.java - Validating user is at LMS page:LMS
+2022-Sep-26 20:52:49.966 [main] INFO  SD_Batch1.java - User is on Batch Details Edit Page 1
+2022-Sep-26 20:52:50.266 [main] INFO  SD_Batch1.java - Current Batch Details Name: SDET NEW BATCH1
+2022-Sep-26 20:52:50.324 [main] INFO  SD_Batch1.java - Current Batch Description: BatchDesc1
+2022-Sep-26 20:52:50.351 [main] INFO  SD_Batch1.java - Current Batch No Of Classes: 60
+2022-Sep-26 20:52:51.709 [main] INFO  SD_BatchNewAdd.java - validating Add Batch PAge:
+2022-Sep-26 20:52:52.369 [main] INFO  SD_BatchNewAdd.java - Batch Name:Test5
+2022-Sep-26 20:52:52.369 [main] INFO  SD_BatchNewAdd.java - Batch Desc:Testing 
+2022-Sep-26 20:52:52.370 [main] INFO  SD_BatchNewAdd.java - Batch Classes:23
+2022-Sep-26 20:52:52.548 [main] INFO  SD_BatchNewAdd.java - Page tittle after cancel button:LMS
+2022-Sep-26 20:52:53.408 [main] INFO  SD_BatchOrder.java - User is on Page number:2
+2022-Sep-26 20:52:53.438 [main] INFO  SD_BatchOrder.java - Validate Second Page Entries:Showing 6 to 10 of 29 entries
+2022-Sep-26 20:52:53.518 [main] INFO  SD_BatchOrder.java - User is on Page number:1
+2022-Sep-26 20:52:53.543 [main] INFO  SD_BatchOrder.java - Validate Previous Page Entries:Showing 1 to 5 of 29 entries
+2022-Sep-26 20:52:53.631 [main] INFO  SD_BatchOrder.java - User is on Page number:5
+2022-Sep-26 20:52:53.658 [main] INFO  SD_BatchOrder.java - Validate Last Page Entries:Showing 21 to 21 of 21 entries
+2022-Sep-26 20:52:53.724 [main] INFO  SD_BatchOrder.java - Validate First Page Entries:Showing 1 to 5 of 21 entries
+2022-Sep-26 20:52:53.881 [main] INFO  SD_BatchOrder.java - Batch Names are sorted in Ascending Order
+2022-Sep-26 20:52:54.028 [main] INFO  SD_BatchOrder.java - Status Ascending order ACTIVE
+2022-Sep-26 20:52:54.028 [main] INFO  SD_BatchOrder.java - Ascending Order is Correct
+2022-Sep-26 20:52:54.106 [main] INFO  SD_BatchOrder.java - No Of Classes is in Ascending order
+2022-Sep-26 20:52:54.307 [main] INFO  SD_BatchOrder.java - Status Ascending order ACTIVE
+2022-Sep-26 20:52:54.308 [main] INFO  SD_BatchOrder.java - Ascending Order is Correct
+2022-Sep-26 20:52:54.412 [main] INFO  SD_BatchOrder.java - No Of Classes is in Descending  order
+2022-Sep-26 20:52:54.431 [main] INFO  SD_User1.java - The Tittle of Manage batch page is :LMS
+2022-Sep-26 20:52:55.524 [main] INFO  SD_User1.java - The URL of Manage User page is :http://lms-frontend-phase2.herokuapp.com/batch
+2022-Sep-26 20:52:56.546 [main] INFO  SD_User1.java - The user is in Manage user page :http://lms-frontend-phase2.herokuapp.com/user
+2022-Sep-26 20:52:56.756 [main] INFO  SD_User1.java - The Tittle of Manage batch page is :LMS
+2022-Sep-26 20:52:56.818 [main] INFO  SD_User1.java - Matching users are displayed
+2022-Sep-26 20:52:56.854 [main] INFO  SD_User1.java - Total number of users :Showing 1 to 4 of 4 entries
+1
+2022-Sep-26 20:52:57.006 [main] INFO  SD_User1.java - User details window pops up
+2022-Sep-26 20:52:57.025 [main] INFO  SD_User1.java - Userdetails window is opened
+2022-Sep-26 20:52:57.098 [main] INFO  SD_User1.java - The Tittle of Manage batch page is :LMS
+2022-Sep-26 20:52:57.450 [main] INFO  SD_User1.java -  User details window is displayed to add the details
+2022-Sep-26 20:52:57.608 [main] INFO  Add new user window is closed - fail
+2022-Sep-27 16:28:56.402 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+2022-Sep-27 16:28:56.441 [main] INFO  BaseClass.java - Browser Type is: Chrome
+2022-Sep-27 16:28:56.442 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+2022-Sep-27 16:29:17.362 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+2022-Sep-27 16:31:02.811 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+2022-Sep-27 16:31:02.832 [main] INFO  BaseClass.java - Browser Type is: Chrome
+2022-Sep-27 16:31:02.832 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+2022-Sep-27 16:31:14.028 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+2022-Sep-27 16:54:26.188 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+2022-Sep-27 16:54:26.190 [main] INFO  BaseClass.java - Browser Type is: Chrome
+2022-Sep-27 16:54:26.190 [main] INFO  BaseClass.java - Base URL is: http://lms-frontend-phase2.herokuapp.com/login
+2022-Sep-27 16:54:39.500 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+2022-Sep-27 16:55:48.052 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+2022-Sep-27 16:55:48.055 [main] INFO  SD_Homepage.java - LMS @When text on page is displayed
+2022-Sep-27 16:55:48.214 [main] INFO  SD_Homepage.java - LMS @Then text on page is displayed : true
+2022-Sep-27 16:55:48.278 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+2022-Sep-27 16:55:48.451 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+2022-Sep-27 16:55:48.541 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the text on the prog 
+2022-Sep-27 16:55:48.655 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+2022-Sep-27 16:55:49.121 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the batch 
+2022-Sep-27 16:55:49.673 [main] INFO  SD_Homepage.java - LMS @When user clicks on the batch 
+2022-Sep-27 16:55:49.753 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+2022-Sep-27 16:55:50.056 [main] INFO  SD_Homepage.java - LMS @When user clicks on the user 
+2022-Sep-27 16:55:50.519 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the user 
+2022-Sep-27 16:55:50.652 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+2022-Sep-27 16:55:51.022 [main] INFO  SD_Homepage.java - LMS @When user clicks on the assignment 
+2022-Sep-27 16:55:51.662 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the assignment 
+2022-Sep-27 16:55:51.830 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+2022-Sep-27 16:55:52.071 [main] INFO  SD_Homepage.java - LMS @When user clicks on the attendence 
+2022-Sep-27 16:55:52.651 [main] INFO  SD_Homepage.java - LMS @Then user clicks on the attendence 
+2022-Sep-27 16:55:52.900 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+2022-Sep-27 16:55:52.922 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+2022-Sep-27 16:55:53.319 [main] INFO  SD_Homepage.java - LMS @When user clicks on the prog: 
+2022-Sep-27 16:55:53.355 [main] INFO  SD_Homepage.java - LMS @Given User is on Homepage LMS
+2022-Sep-27 16:55:53.682 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+2022-Sep-27 16:55:53.890 [main] INFO  SD_Program4 .java - LMS @When text on search page is displayed
+2022-Sep-27 16:55:54.112 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+2022-Sep-27 16:55:54.456 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+2022-Sep-27 16:55:54.533 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+2022-Sep-27 16:55:54.573 [main] INFO  SD_Program4 .java - LMS @Given User is on Homepage LMS
+2022-Sep-27 16:55:54.699 [main] INFO  SD_Batch1.java - The Tittle of Manage Progrm page is :LMS
+2022-Sep-27 16:55:54.879 [main] INFO  SD_Batch1.java - The Tittle of Manage Batch page is :LMS
+2022-Sep-27 16:55:55.054 [main] INFO  SD_Batch1.java - The URL of Manage Progrm page is :http://lms-frontend-phase2.herokuapp.com/batch
+2022-Sep-27 16:55:55.497 [main] INFO  SD_Batch1.java - The Tittle of Manage Batch page is :http://lms-frontend-phase2.herokuapp.com/batch
+2022-Sep-27 16:55:55.901 [main] INFO  SD_Batch1.java - Result String is: sdet55
+2022-Sep-27 16:55:55.901 [main] INFO  SD_Batch1.java - String Exists
+2022-Sep-27 16:55:56.053 [main] INFO  SD_Batch1.java - Entries Text is :Showing 1 to 5 of 28 entries
+2022-Sep-27 16:55:57.308 [main] INFO  SD_Batch1.java - Main window handle is CDwindow-7C65AC77A72DDFF801E65493AB8D7BA9
+2022-Sep-27 16:55:57.361 [main] INFO  SD_Batch1.java - Child window handle is[CDwindow-7C65AC77A72DDFF801E65493AB8D7BA9]
+2022-Sep-27 17:00:31.407 [main] INFO  SD_BatchOrder.java - User is on Page number:2
+2022-Sep-27 17:00:31.786 [main] INFO  SD_BatchOrder.java - Validate Second Page Entries:Showing 6 to 10 of 23 entries
+2022-Sep-27 17:00:32.462 [main] INFO  SD_BatchOrder.java - User is on Page number:1
+2022-Sep-27 17:00:32.589 [main] INFO  SD_BatchOrder.java - Validate Previous Page Entries:Showing 1 to 5 of 23 entries
+2022-Sep-27 17:00:32.833 [main] INFO  SD_BatchOrder.java - User is on Page number:5
+2022-Sep-27 17:00:32.926 [main] INFO  SD_BatchOrder.java - Validate Last Page Entries:Showing 21 to 23 of 23 entries
+2022-Sep-27 17:00:33.090 [main] INFO  SD_BatchOrder.java - Validate First Page Entries:Showing 1 to 5 of 23 entries
+2022-Sep-27 17:00:33.782 [main] INFO  SD_BatchOrder.java - Batch Names are sorted in Ascending Order
+2022-Sep-27 17:00:34.382 [main] INFO  SD_BatchOrder.java - Status Ascending order ACTIVE
+2022-Sep-27 17:00:34.383 [main] INFO  SD_BatchOrder.java - Ascending Order is Correct
+2022-Sep-27 17:00:34.712 [main] INFO  SD_BatchOrder.java - No Of Classes is in Descending  order
+2022-Sep-27 17:00:35.800 [main] INFO  SD_BatchOrder.java - Status Ascending order INACTIVE
+2022-Sep-27 17:00:35.800 [main] INFO  SD_BatchOrder.java - Descending Order is not Correct
+2022-Sep-27 17:00:36.286 [main] INFO  SD_BatchOrder.java - No Of Classes is in Descending  order
+2022-Sep-27 17:00:36.345 [main] INFO  SD_Program6 .java - LMS @Given User is on programpage LMS
+2022-Sep-27 17:01:46.469 [main] INFO  SD_Program6 .java - LMS @Given User is on programpage LMS
+2022-Sep-27 17:02:57.009 [main] INFO  SD_Program6 .java - LMS @Given User is on programpage LMS
+2022-Sep-27 17:04:07.538 [main] INFO  SD_User1.java - The Tittle of Manage batch page is :LMS
+2022-Sep-27 17:04:08.983 [main] INFO  SD_User1.java - The Tittle of Manage batch page is :LMS
+2022-Sep-27 17:04:09.342 [main] INFO  SD_User1.java - The URL of Manage User page is :http://lms-frontend-phase2.herokuapp.com/user
+2022-Sep-27 17:04:10.383 [main] INFO  SD_User1.java - The user is in Manage user page :http://lms-frontend-phase2.herokuapp.com/user
+2022-Sep-27 17:04:11.552 [main] INFO  SD_User1.java - The Tittle of Manage batch page is :LMS
+2022-Sep-27 17:04:11.769 [main] INFO  SD_User1.java - Matching users are displayed
+2022-Sep-27 17:04:12.017 [main] INFO  SD_User1.java - Total number of users :Showing 1 to 4 of 4 entries
+1
+2022-Sep-27 17:04:13.263 [main] INFO  SD_User1.java - User details window pops up
+2022-Sep-27 17:04:13.569 [main] INFO  SD_User1.java - Userdetails window is opened
+2022-Sep-27 17:04:13.942 [main] INFO  SD_User1.java - The Tittle of Manage batch page is :LMS
+2022-Sep-27 17:04:15.651 [main] INFO  SD_User1.java -  User details window is displayed to add the details
+2022-Sep-27 17:04:16.121 [main] INFO  Add new user window is closed - fail
+2022-Sep-27 17:04:16.346 [main] INFO  SD_User1.java - The Tittle of Manage batch page is :LMS
