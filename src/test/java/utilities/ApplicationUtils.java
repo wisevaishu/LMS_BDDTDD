@@ -1,8 +1,17 @@
 package utilities;
 
+import java.io.IOException;
+import java.net.HttpURLConnection;
+import java.net.URL;
 import java.time.Duration;
-import java.util.concurrent.TimeUnit;
+import java.util.Scanner;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
+import org.apache.http.client.HttpClient;
+import org.apache.http.client.methods.HttpGet;
+import org.apache.http.client.methods.HttpUriRequest;
+import org.apache.http.impl.client.HttpClientBuilder;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -14,6 +23,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import Base.BaseClass;
 import io.github.bonigarcia.wdm.WebDriverManager;
+
+import java.net.HttpURLConnection;
 
 public class ApplicationUtils extends BaseClass 
 {
@@ -72,7 +83,7 @@ public class ApplicationUtils extends BaseClass
 	{
 		wait = new WebDriverWait(driver, Duration.ofSeconds(30));
 		wait.until(ExpectedConditions.alertIsPresent());
-	}
+	}	
 
 	public void AcceptAlert() 
 	{
@@ -97,8 +108,85 @@ public class ApplicationUtils extends BaseClass
 		return text;
 	}
 	
-	public static void checkVisible(WebElement element) 
+	public static boolean spellCheck(String input, String[] dic)
 	{
-		element.isDisplayed();
+		String CurrentCheck ="";
+		boolean noErrors = true;
+		Scanner spellChecker = new Scanner(input);
+		spellChecker.useDelimiter("\\s+");
+		while (spellChecker.hasNext())
+		{
+			CurrentCheck=spellChecker.next();
+			if(!isSpecial(CurrentCheck))
+			{
+				if(!checkWork(CurrentCheck, dic))
+				{
+					noErrors=false;
+				}
+			}
+		}
+		return noErrors;
 	}
+	
+	public static boolean isSpecial(String input)
+	{
+		Pattern pattern = Pattern.compile("[^a-z0-9 ]",Pattern.CASE_INSENSITIVE);
+		Matcher match = pattern.matcher(input);
+		return match.find();
+	}
+	
+	public static boolean checkWork(String input, String[] dic)
+	{
+		boolean valid=false;
+		int length =dic.length;
+		int i=0;
+		while(!valid && i<length)
+		{
+			if (input.trim().equalsIgnoreCase(dic[i]))
+			{
+				valid=true;
+			}
+			i++;
+		}
+		return valid;
+	}
+	
+	public static boolean isClickable(WebElement element)
+	{
+		try
+		{ 
+			wait.until(ExpectedConditions.elementToBeClickable(element));
+		   return true;
+		 }
+		catch (Exception e)
+		{
+			return false;
+		}
+	}
+	
+	public static boolean checkVisible(WebElement element) 
+	{
+		boolean value;
+		try 
+		{
+			value=element.isDisplayed();
+			return value;
+		}
+		catch (Exception e)
+		{
+			return false;
+		}		
+	}
+	
+	public int CheckHTTPResponse(String url) throws IOException
+	{
+		HttpURLConnection httpURLConnection;
+		URL link = new URL(url);
+		httpURLConnection= (HttpURLConnection) link.openConnection();
+		httpURLConnection.setConnectTimeout(3000); 
+		httpURLConnection.connect();
+		return httpURLConnection.getResponseCode();
+	}
+	
+	
 }

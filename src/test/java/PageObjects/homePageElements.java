@@ -5,6 +5,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import Base.BaseClass;
+import utilities.ApplicationUtils;
 
 public class homePageElements extends BaseClass 
 {
@@ -14,10 +15,20 @@ public class homePageElements extends BaseClass
 	}
 	
 	@FindBy(name = "Login")
-	WebElement loginButton;
+	public WebElement loginButton;
+	
+	@FindBy(xpath="//img[@src=/path/to/image.png\\")
+	WebElement LogoImage;
 	
 	public void loginButtonClick()
 	{
-		au.clickOper(loginButton);
+		ApplicationUtils.clickOper(loginButton);
 	}
+	
+	public String getLogoSRC()
+	{
+		return LogoImage.getAttribute("src");
+	}
+	
+	
 }

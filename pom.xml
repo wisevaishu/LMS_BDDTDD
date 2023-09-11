@@ -127,16 +127,16 @@
 </dependency>
 
 <dependency>
-	<groupId>org.apache.logging.log4j</groupId>
-	<artifactId>log4j-core</artifactId>
-	<version>3.0.0-alpha1</version>
-</dependency>
+    	<groupId>org.apache.logging.log4j</groupId>
+    	<artifactId>log4j-core</artifactId>
+    	<version>2.20.0</version>
+	</dependency>
 
-<dependency>
+<!--<dependency>
 	<groupId>org.apache.logging.log4j</groupId>
 	<artifactId>log4j-api</artifactId>
 	<version>3.0.0-alpha1</version>
-</dependency>	
+</dependency>-->	
 
 <dependency>
 	<groupId>org.testng</groupId>
@@ -168,6 +168,24 @@
 	<artifactId>allure-maven</artifactId>
 	<version>2.11.2</version>
 </dependency>
-</dependencies>
 
+<dependency>
+   <groupId>net.sourceforge.tess4j</groupId>
+   <artifactId>tess4j</artifactId>
+   <version>5.8.0</version> 
+</dependency>
+
+<dependency>
+    <groupId>ru.yandex.qatools.ashot</groupId>
+    <artifactId>ashot</artifactId>
+    <version>1.5.4</version>
+</dependency>
+
+<dependency>
+    <groupId>org.apache.httpcomponents</groupId>
+    <artifactId>httpclient</artifactId>
+    <version>4.5.1</version>
+</dependency>
+
+</dependencies>
 </project>
