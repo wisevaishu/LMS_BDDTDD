@@ -88,11 +88,16 @@ public class homepage extends BaseClass
 			{
 				statuscode = au.CheckHTTPResponse(InvalidLMSURL);
 			}
+			else if (url=="forgotusernamepasswordurl")
+			{
+				statuscode = au.CheckHTTPResponse(ForgotUsernamePasswordURL);
+			}
 			
 			if (statuscode>=statuscodefromfeature) 
 			{				
-				log.info(homeUrl + " - " + httpURLConnection.getResponseMessage() + " - " + "is a broken link");
-			}			
+				log.info(url + " - " + httpURLConnection.getResponseMessage() + " - " + "is a broken link");
+			}	
+
 		}
 		catch (Exception e) 
 		{

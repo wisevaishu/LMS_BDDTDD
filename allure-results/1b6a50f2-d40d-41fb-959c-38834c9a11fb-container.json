@@ -1,1 +1,0 @@
-{"uuid":"1b6a50f2-d40d-41fb-959c-38834c9a11fb","name":"Scenario: Validating the url","children":["5f9725da-e29f-4d8c-8b34-4878ca738b2f"],"befores":[{"name":"Hooks.LMS_Hooks.browserSetUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1664238684758,"stop":1664238687975}],"afters":[],"links":[],"start":1664238684652,"stop":1664238688258}

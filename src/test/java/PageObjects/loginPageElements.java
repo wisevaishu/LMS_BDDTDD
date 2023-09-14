@@ -1,9 +1,13 @@
 package PageObjects;
 
+import java.util.List;
+
 import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
+
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.How;
+
 import org.openqa.selenium.support.PageFactory;
 
 import Base.BaseClass;
@@ -20,25 +24,30 @@ public class loginPageElements extends BaseClass
 	WebElement loginpagetitle;
 	
 	@FindBy(xpath = "//input[@name='username']")
-	WebElement userTextbox;
+	public WebElement userTextbox;
 	
 	@FindBy(xpath = "//input[@name='password']")
 	WebElement PwdTextbox;	
 	
 	@FindBy(xpath = "//input[@name='login']")
-	WebElement loginButton;
+	public WebElement loginButton;
 	
 	@FindBy(xpath = "//a[contains('Please login to LMS application')]")
 	WebElement loginpageHeadingLink;
 	
 	@FindBy(xpath = "//a[contains('Forgot Username or Password')]")
-	WebElement ForgotUserPwdLink;
+	public WebElement ForgotUserPwdLink;
 	
 	@FindBy(xpath = "//a[contains('Reset Password')]")
 	WebElement ResetPwdLink;
 	
 	@FindBy(xpath = "//span[text='Note : UI Screens in this PPT is for ADMIN Role']")
 	WebElement BottomSpanText;
+	
+	List<WebElement> totalTextboxes = driver.findElements(By.xpath("//input[@type='text']"));
+	
+	@FindBy(xpath = "//div[@class='alert alert-primary']")
+	WebElement retrievemsg;
 	
 	public void loginPageTitleVisiblity()
 	{
@@ -93,5 +102,40 @@ public class loginPageElements extends BaseClass
 	public String getBottomSpanText()
 	{
 		return BottomSpanText.getText();
+	}
+	
+	public int TotalTextboxesCount()
+	{
+		return totalTextboxes.size();
+	}
+	
+	public String getUserTextcolor()
+	{
+		return userTextbox.getCssValue("color");		
+	}
+	
+	public String getPasswordTextcolor()
+	{
+		return PwdTextbox.getCssValue("color");		
+	}
+	
+	public String printRetrievemsg() 
+	{
+		return retrievemsg.getText();		
+	}	
+	
+	public void LoginButtonEnterthroughKeyboard()
+	{
+		loginButton.sendKeys(Keys.ENTER);
+	}
+	
+	public void clickForgotUserPwdLink()
+	{			
+		ApplicationUtils.clickOper(ForgotUserPwdLink);
+	}
+	
+	public void clickResetPwdLink()
+	{			
+		ApplicationUtils.clickOper(ResetPwdLink);
 	}
 }
