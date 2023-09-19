@@ -8,6 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.testng.asserts.SoftAssert;
 
 import PageObjects.*;
+import net.bytebuddy.asm.MemberSubstitution.Current;
 import utilities.ApplicationUtils;
 
 
@@ -18,7 +19,7 @@ public class BaseClass
 	
 	public static WebDriver driver;
 	//static ReadConfig config = new ReadConfig();
-	public static Logger log = LogManager.getLogger("BaseClass.java");
+	public static Logger log = LogManager.getLogger();
 	
 	public static ResourceBundle configPropertiesFile = ResourceBundle.getBundle("ReadConfig");
 	

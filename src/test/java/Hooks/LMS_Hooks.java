@@ -17,7 +17,8 @@ public class LMS_Hooks extends BaseClass
 	{
 		if (browserName=="chrome")
 		{
-			System.setProperty("webdriver.chrome.driver", ".\\src\\test\\resources\\drivers\\chromedriver.exe");
+			//System.setProperty("webdriver.chrome.driver", ".\\src\\test\\resources\\drivers\\chromedriver.exe");
+			WebDriverManager.chromedriver().setup();
 			driver = new ChromeDriver();			
 		}
 		

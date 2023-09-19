@@ -8,7 +8,7 @@ import utilities.ApplicationUtils;
 
 import org.openqa.selenium.support.Color;
 import org.testng.Assert;
-import org.testng.asserts.SoftAssert;
+
 
 import Base.BaseClass;
 

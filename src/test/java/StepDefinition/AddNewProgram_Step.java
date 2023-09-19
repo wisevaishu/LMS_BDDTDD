@@ -75,20 +75,20 @@ log.info("Admin is getting error Msg after clicking Save button with all empty f
 }
 
 @When("Admin enters the sheetname {string} and row number {int} on program")
-public void admin_enters_the_sheetname_and_row_number_on_program(String string, Integer int1) throws EncryptedDocumentException, IOException {
-   
-ExcelReader reader = new ExcelReader();
-   List<Map<String, String>> testdata = reader.getData(excelpath,string);
-
-ProgramName = testdata.get(int1).get("Name");
-ProgramDescription = testdata.get(int1).get("Description");
-
-log.info("User Enter Program Name as \" " + ProgramName + " \"and Description as \" " + ProgramDescription);
-if (ProgramName != null || ProgramDescription != null)
+public void admin_enters_the_sheetname_and_row_number_on_program(String string, Integer int1) throws EncryptedDocumentException, IOException 
 {
-programPage.setProgramName(ProgramName);
-programPage.setProgramDescription(ProgramDescription);
-}
+	ExcelReader reader = new ExcelReader();
+	List<Map<String, String>> testdata = reader.getData(excelpath,string);
+
+	ProgramName = testdata.get(int1).get("Name");
+	ProgramDescription = testdata.get(int1).get("Description");
+
+	log.info("User Enter Program Name as \" " + ProgramName + " \"and Description as \" " + ProgramDescription);
+	if (ProgramName != null || ProgramDescription != null)
+	{
+			programPage.setProgramName(ProgramName);
+				programPage.setProgramDescription(ProgramDescription);
+	}
 }
 
 @Then("Admin should get a message alert {string} on program details popup")
